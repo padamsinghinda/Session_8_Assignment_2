@@ -4,6 +4,7 @@ A z-score tells where the score lies on a normal distribution curve.
 For example,
 A z-score of zero tells that the value is exactly average while a score of (+/-)3 tells that the value is much higher than average.
 
+Now let's solve the problem described in this assignment :
 Step-1 =>
 z-score calculation formula :
 z-score = (x-μ)/(σ)
